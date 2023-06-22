@@ -33,7 +33,7 @@ public class Menu {
                     searchInterviewer();
                     break;
             }
-        };
+        }
 
         System.out.println("Programa terminado");
     }
